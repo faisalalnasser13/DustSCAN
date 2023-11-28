@@ -1,5 +1,5 @@
 # DustSCAN
-The DustSCAN dataset is a collection that tracks and characterizes atmospheric dust plumes using hourly imagery from the SEVIRI instrument on Meteosat satellites. The corresponding source code in the repository enables users to work with this dataset for additional analysis and exploration of dust plume data as demonstrated in our recent paper.
+The DustSCAN dataset is a collection of tracked atmospheric dust plumes from hourly imagery using the SEVIRI instrument on Meteosat satellites. The corresponding source code in the repository enables users to work with this dataset for additional analysis and exploration of dust plume data as demonstrated in our recent paper.
 
 
 
@@ -13,4 +13,4 @@ Key functionalities include:
 - DBSCAN Clustering: Applies the DBSCAN algorithm for clustering dust-affected pixels into plumes.
 - Plume Property Analysis: Extracts properties like source area, centroid, coverage, extent, duration, and contribution.
 - Dataset Integration: Integrates additional datasets like soil moisture, vegetation index, and wind vectors for comprehensive analysis.
-- Validation Tools: Features validation tools as detailed in the paper, ensuring accuracy in plume tracking.
+- Validation Tools: Features validation tools as detailed in the paper.
